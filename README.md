@@ -14,8 +14,11 @@
   <a href="https://linkedin.com/in/Sujal-Mundra" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sujal-Mundra" height="30" width="40" />
   </a>
+  <a href="https://wa.me/916355692664" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="whatsapp" height="50" width="50" />
+  </a>
   <a href="https://github.com/Sujal-Mundra" target="blank">
-    <img align="center" src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" height="40" width="40" />
   </a>
   <a href="mailto:sujalrmundra@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png" alt="Email" height="50" width="50" />
